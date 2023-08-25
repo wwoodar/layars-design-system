@@ -1,2 +1,2 @@
 # layars-design-system
-A svelte design system
+A web components design system
